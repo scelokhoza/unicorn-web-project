@@ -22,7 +22,7 @@
         text-align: center;
     }
     </style>
-  <title>Scelo Khoza</title>
+  <title>Wild Rydes</title>
 </head>
 
 <body>
