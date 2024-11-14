@@ -22,12 +22,12 @@
         text-align: center;
     }
     </style>
-  <title>Wild Rydes</title>
+  <title>Scelo Khoza</title>
 </head>
 
 <body>
     <header class="site-header">
-        <h1 class="title">Wild Rydes</h1>
+        <h1 class="title">He Who Remains!</h1>
     </header>
     <section class="home-about">
         
